@@ -11,7 +11,7 @@ A complete bioinformatics pipeline for de novo assembly and annotation of a bact
 | Field | Value |
 |---|---|
 | **Organism** | *Staphylococcus aureus* GR1 |
-| **SRA Accession** | [SRR501130](https://www.ncbi.nlm.nih.gov/sra/?term=SRX146853) |
+| **SRA Accession** | [SRR501130]((https://r.search.yahoo.com/_ylt=Awrji.wi7ZNp8QEAq2VXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1772511779/RO=10/RU=https%3a%2f%2fdromicslabs.com%2f/RK=2/RS=Z_2xkO.BInIX46CAv7AuJ_rU00Q-)) |
 | **Experiment** | SRX146853 |
 | **Sequencing** | Illumina paired-end (76 bp reads) |
 | **Total reads** | ~10,900,000 spots |
